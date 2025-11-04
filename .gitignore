@@ -60,3 +60,17 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+GoogleService-Info.plist
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.orig
+
+# Xcode user state (explicit)
+*.xcuserstate
